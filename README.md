@@ -25,4 +25,4 @@ Proyecto preentrega para el curso de frontend de Talento Tech
 
 ## Autor
 
-pepito
+Lizarralde Juan Francisco
